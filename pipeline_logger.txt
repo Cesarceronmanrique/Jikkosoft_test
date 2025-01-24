@@ -1,0 +1,90 @@
+INFO: 01/24/2025 05:02:25 Iniciando proceso.
+INFO: 01/24/2025 05:02:25 Variables de entorno cargadas.
+INFO: 01/24/2025 05:02:25 Actualizados path de archivos.
+INFO: 01/24/2025 05:02:27 Configurada sesión de Spark.
+INFO: 01/24/2025 05:02:27 Conexión establecida con la base de datos: <connection object at 0x7f5c8df8e340; dsn: 'user=jikkosoft password=xxx dbname=jikkosoft_db host=localhost port=5432 options='-c search_path=consumptions'', closed: 0>
+INFO: 01/24/2025 05:02:27 Archivo SQL /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/SQL/create_dim_sectors.sql ejecutado exitosamente.
+INFO: 01/24/2025 05:02:27 Archivo SQL /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/SQL/insert_dim_sectors.sql ejecutado exitosamente.
+INFO: 01/24/2025 05:02:27 Archivo SQL /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/SQL/create_fact_consumptions.sql ejecutado exitosamente.
+INFO: 01/24/2025 05:02:27 Archivo SQL /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/SQL/get_results.sql ejecutado exitosamente.
+INFO: 01/24/2025 05:02:28 Cargados archivos auxiliares para valores máximos, mínimos y tasa de consumo.
+INFO: 01/24/2025 05:02:28 Procesando archivo: /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/Data/dataset-1.txt
+INFO: 01/24/2025 05:02:30 Se procesará el lote 0-1000:
+INFO: 01/24/2025 05:02:30 - Filas procesadas: 500
+INFO: 01/24/2025 05:02:30 - Suma de 'Tasa Calculada': 67624330.74000004
+INFO: 01/24/2025 05:02:30 - Total acumulado de filas procesadas: 500
+INFO: 01/24/2025 05:02:30 - Total acumulado de 'Tasa Calculada': 67624330.74000004
+INFO: 01/24/2025 05:02:30 Procesando archivo: /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/Data/dataset-2.txt
+INFO: 01/24/2025 05:02:30 Se procesará el lote 0-1000:
+INFO: 01/24/2025 05:02:30 - Filas procesadas: 1500
+INFO: 01/24/2025 05:02:30 - Suma de 'Tasa Calculada': 217698599.48999995
+INFO: 01/24/2025 05:02:30 - Total acumulado de filas procesadas: 1500
+INFO: 01/24/2025 05:02:30 - Total acumulado de 'Tasa Calculada': 217698599.48999995
+INFO: 01/24/2025 05:02:30 Procesando archivo: /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/Data/dataset-3.txt
+INFO: 01/24/2025 05:02:31 Se procesará el lote 0-1000:
+INFO: 01/24/2025 05:02:31 - Filas procesadas: 2500
+INFO: 01/24/2025 05:02:31 - Suma de 'Tasa Calculada': 357864689.24999976
+INFO: 01/24/2025 05:02:31 Se procesará el lote 1000-2000:
+INFO: 01/24/2025 05:02:31 - Filas procesadas: 3500
+INFO: 01/24/2025 05:02:31 - Suma de 'Tasa Calculada': 505560805.3399998
+INFO: 01/24/2025 05:02:31 - Total acumulado de filas procesadas: 3500
+INFO: 01/24/2025 05:02:31 - Total acumulado de 'Tasa Calculada': 505560805.3399998
+INFO: 01/24/2025 05:02:31 Procesando archivo: /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/Data/dataset-4.txt
+INFO: 01/24/2025 05:02:31 Se procesará el lote 0-1000:
+INFO: 01/24/2025 05:02:31 - Filas procesadas: 4500
+INFO: 01/24/2025 05:02:31 - Suma de 'Tasa Calculada': 649893288.4899998
+INFO: 01/24/2025 05:02:32 Se procesará el lote 1000-2000:
+INFO: 01/24/2025 05:02:32 - Filas procesadas: 5500
+INFO: 01/24/2025 05:02:32 - Suma de 'Tasa Calculada': 792345829.4999996
+INFO: 01/24/2025 05:02:32 Se procesará el lote 2000-3000:
+INFO: 01/24/2025 05:02:32 - Filas procesadas: 6500
+INFO: 01/24/2025 05:02:32 - Suma de 'Tasa Calculada': 937762409.1199994
+INFO: 01/24/2025 05:02:32 Se procesará el lote 3000-4000:
+INFO: 01/24/2025 05:02:32 - Filas procesadas: 7500
+INFO: 01/24/2025 05:02:32 - Suma de 'Tasa Calculada': 1082243219.009999
+INFO: 01/24/2025 05:02:32 Se procesará el lote 4000-5000:
+INFO: 01/24/2025 05:02:32 - Filas procesadas: 8500
+INFO: 01/24/2025 05:02:32 - Suma de 'Tasa Calculada': 1224761501.7899988
+INFO: 01/24/2025 05:02:32 - Total acumulado de filas procesadas: 8500
+INFO: 01/24/2025 05:02:32 - Total acumulado de 'Tasa Calculada': 1224761501.7899988
+INFO: 01/24/2025 05:02:33 Procesando archivo: /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/Data/dataset-5.txt
+INFO: 01/24/2025 05:02:33 Se procesará el lote 0-1000:
+INFO: 01/24/2025 05:02:33 - Filas procesadas: 9500
+INFO: 01/24/2025 05:02:33 - Suma de 'Tasa Calculada': 1364617316.5099986
+INFO: 01/24/2025 05:02:33 Se procesará el lote 1000-2000:
+INFO: 01/24/2025 05:02:33 - Filas procesadas: 10500
+INFO: 01/24/2025 05:02:33 - Suma de 'Tasa Calculada': 1511711937.6299984
+INFO: 01/24/2025 05:02:33 Se procesará el lote 2000-3000:
+INFO: 01/24/2025 05:02:33 - Filas procesadas: 11500
+INFO: 01/24/2025 05:02:33 - Suma de 'Tasa Calculada': 1658476808.4399981
+INFO: 01/24/2025 05:02:34 Se procesará el lote 3000-4000:
+INFO: 01/24/2025 05:02:34 - Filas procesadas: 12500
+INFO: 01/24/2025 05:02:34 - Suma de 'Tasa Calculada': 1806725813.7199981
+INFO: 01/24/2025 05:02:34 Se procesará el lote 4000-5000:
+INFO: 01/24/2025 05:02:34 - Filas procesadas: 13500
+INFO: 01/24/2025 05:02:34 - Suma de 'Tasa Calculada': 1944497153.479998
+INFO: 01/24/2025 05:02:34 Se procesará el lote 5000-6000:
+INFO: 01/24/2025 05:02:34 - Filas procesadas: 14500
+INFO: 01/24/2025 05:02:34 - Suma de 'Tasa Calculada': 2090871668.6199982
+INFO: 01/24/2025 05:02:34 Se procesará el lote 6000-7000:
+INFO: 01/24/2025 05:02:34 - Filas procesadas: 15500
+INFO: 01/24/2025 05:02:34 - Suma de 'Tasa Calculada': 2230905597.579998
+INFO: 01/24/2025 05:02:35 Se procesará el lote 7000-8000:
+INFO: 01/24/2025 05:02:35 - Filas procesadas: 16500
+INFO: 01/24/2025 05:02:35 - Suma de 'Tasa Calculada': 2374153195.689998
+INFO: 01/24/2025 05:02:35 Se procesará el lote 8000-9000:
+INFO: 01/24/2025 05:02:35 - Filas procesadas: 17500
+INFO: 01/24/2025 05:02:35 - Suma de 'Tasa Calculada': 2522760057.299998
+INFO: 01/24/2025 05:02:35 Se procesará el lote 9000-10000:
+INFO: 01/24/2025 05:02:35 - Filas procesadas: 18500
+INFO: 01/24/2025 05:02:35 - Suma de 'Tasa Calculada': 2669191384.7299976
+INFO: 01/24/2025 05:02:35 - Total acumulado de filas procesadas: 18500
+INFO: 01/24/2025 05:02:35 - Total acumulado de 'Tasa Calculada': 2669191384.7299976
+INFO: 01/24/2025 05:02:35 Pipeline finalizado.
+INFO: 01/24/2025 05:02:35 Archivo SQL /home/cesar/Escritorio/Pruebas_Tecnicas/Jikkosoft/Solucion/SQL/get_results.sql ejecutado exitosamente.
+INFO: 01/24/2025 05:02:35 - Count of Values: 18500
+INFO: 01/24/2025 05:02:35 - Calculated Rate Average: 144280.61539080823
+INFO: 01/24/2025 05:02:35 - Calculated Rate Sum: 2669191384.7299523
+INFO: 01/24/2025 05:02:35 - Minumun Calculated Rate Value: 2120.6
+INFO: 01/24/2025 05:02:35 - Maximun Calculated Rate Value: 399994.84
+INFO: 01/24/2025 05:02:35 --------------------------------
