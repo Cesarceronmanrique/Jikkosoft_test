@@ -31,3 +31,7 @@ Antes de utilizar este proyecto, asegúrate de cumplir con los siguientes requis
 
    ```bash
    python main.py
+
+## Resultados
+
+En el archivo `pipeline_logger` se encuentran los resultados de la ejecución por `Microbatches` y los resultados referentes a la consulta a la base de datos. 
